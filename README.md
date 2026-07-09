@@ -15,4 +15,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/rshreyas-arch/dsa-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
