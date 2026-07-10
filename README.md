@@ -24,4 +24,9 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
