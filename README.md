@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rshreyas-arch/dsa-practice/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rshreyas-arch/dsa-practice/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
