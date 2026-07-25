@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rshreyas-arch/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rshreyas-arch/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
