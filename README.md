@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/rshreyas-arch/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rshreyas-arch/dsa-practice/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1929-concatenation-of-array) |
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
 ## String
 |  |
