@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/rshreyas-arch/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rshreyas-arch/dsa-practice/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/rshreyas-arch/dsa-practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -73,4 +74,9 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rshreyas-arch/dsa-practice/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/rshreyas-arch/dsa-practice/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rshreyas-arch/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
