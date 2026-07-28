@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/rshreyas-arch/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rshreyas-arch/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rshreyas-arch/dsa-practice/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/rshreyas-arch/dsa-practice/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/rshreyas-arch/dsa-practice/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
@@ -43,10 +44,12 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rshreyas-arch/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rshreyas-arch/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/rshreyas-arch/dsa-practice/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rshreyas-arch/dsa-practice/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
