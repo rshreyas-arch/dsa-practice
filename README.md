@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/rshreyas-arch/dsa-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
 ## String
@@ -69,6 +70,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rshreyas-arch/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rshreyas-arch/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/rshreyas-arch/dsa-practice/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
