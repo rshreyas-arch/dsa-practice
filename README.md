@@ -83,6 +83,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/rshreyas-arch/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/rshreyas-arch/dsa-practice/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/rshreyas-arch/dsa-practice/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rshreyas-arch/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rshreyas-arch/dsa-practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
