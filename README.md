@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/rshreyas-arch/dsa-practice/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/rshreyas-arch/dsa-practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rshreyas-arch/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rshreyas-arch/dsa-practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rshreyas-arch/dsa-practice/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rshreyas-arch/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
