@@ -22,11 +22,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rshreyas-arch/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rshreyas-arch/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rshreyas-arch/dsa-practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rshreyas-arch/dsa-practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0038-count-and-say](https://github.com/rshreyas-arch/dsa-practice/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/rshreyas-arch/dsa-practice/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rshreyas-arch/dsa-practice/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
