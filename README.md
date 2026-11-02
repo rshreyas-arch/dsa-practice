@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rshreyas-arch/dsa-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rshreyas-arch/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rshreyas-arch/dsa-practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rshreyas-arch/dsa-practice/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/rshreyas-arch/dsa-practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rshreyas-arch/dsa-practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rshreyas-arch/dsa-practice/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/rshreyas-arch/dsa-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
