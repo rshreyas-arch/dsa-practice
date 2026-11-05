@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rshreyas-arch/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rshreyas-arch/dsa-practice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rshreyas-arch/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -31,6 +32,7 @@
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rshreyas-arch/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rshreyas-arch/dsa-practice/tree/master/0242-valid-anagram) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rshreyas-arch/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0086-partition-list](https://github.com/rshreyas-arch/dsa-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rshreyas-arch/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/rshreyas-arch/dsa-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rshreyas-arch/dsa-practice/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rshreyas-arch/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Trie
 |  |
 | ------- |
