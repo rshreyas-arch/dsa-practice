@@ -17,6 +17,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rshreyas-arch/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1929-concatenation-of-array) |
+| [3693-climbing-stairs-ii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -115,4 +116,5 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rshreyas-arch/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3693-climbing-stairs-ii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
