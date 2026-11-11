@@ -44,6 +44,7 @@
 | [0043-multiply-strings](https://github.com/rshreyas-arch/dsa-practice/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/rshreyas-arch/dsa-practice/tree/master/0069-sqrtx) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rshreyas-arch/dsa-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,4 +118,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rshreyas-arch/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3693-climbing-stairs-ii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3693-climbing-stairs-ii) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/rshreyas-arch/dsa-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
