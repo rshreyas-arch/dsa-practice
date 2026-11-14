@@ -18,6 +18,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1929-concatenation-of-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rshreyas-arch/dsa-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rshreyas-arch/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rshreyas-arch/dsa-practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rshreyas-arch/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rshreyas-arch/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rshreyas-arch/dsa-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
