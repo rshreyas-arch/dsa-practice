@@ -67,11 +67,13 @@
 | [0043-multiply-strings](https://github.com/rshreyas-arch/dsa-practice/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/rshreyas-arch/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rshreyas-arch/dsa-practice/tree/master/0242-valid-anagram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rshreyas-arch/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rshreyas-arch/dsa-practice/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/rshreyas-arch/dsa-practice/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rshreyas-arch/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
